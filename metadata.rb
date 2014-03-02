@@ -8,5 +8,5 @@ version          '1.0'
 
 # Cookbook dependencies (IIS and Windows)
 depends          'iis'
-depends  		 'windows'
+depends          'windows'
 supports         'windows'
